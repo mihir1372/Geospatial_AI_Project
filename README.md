@@ -7,11 +7,6 @@ Our goal is to understand the root causes behind the relatively low accuracy in 
 
 ---
 
-## Project Paper  
-Overleaf Paper: *Link available in project submission*
-
----
-
 ## General Configuration (Kaggle Setup)
 
 To reproduce results using Kaggle:
