@@ -59,7 +59,7 @@ Run each notebook fully to view accuracy, loss curves, and comparative results.
 
 ---
 
-### **XAI/**
+### **Gradcam++ &tSne/**
 Contains:
 - `full_dataset_fire_risk_xai_tsne.ipynb`
 
